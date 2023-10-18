@@ -1,0 +1,381 @@
+* , html
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header1 ul 
+{
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    gap: 20px;
+    background-color: rgb(245, 242, 242);
+    font-size: 17px;
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-left: 7.5%;
+    width: 1265px;
+    height: 30px;
+}
+.nav-items
+{
+    display: flex;
+    justify-content: space-between;
+}
+.header2
+{
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    gap: 20px;
+    font-size: 17px;
+    border: solid white;
+    box-sizing: border-box;
+    margin-left: 8.3%;
+    width: 1265px;
+    margin-top: 1%;
+}
+.header3
+{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    list-style-type: none;
+    font-size: 17px;
+    border: solid white;
+    box-sizing: border-box;
+    margin-top: 1%;
+    width: 115px;
+    margin-right: 150px;
+    position: relative;
+}
+.gambar
+{
+    border: solid white;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: start;
+    margin-left: 7.5%;
+    gap: 15px;
+    position: relative;
+}
+.Menu
+{
+    display: flex;
+    justify-content: start;
+    box-sizing: border-box;
+    border: solid white;
+    gap: 53px;
+    margin-left: 7.5%;
+    margin-top: 1.5%;
+    font-size: 17px;
+}
+.kepoun
+{
+    margin-top: 2.3%;
+    display: flex;
+    justify-content: start ;
+    gap: 67px;
+}
+.Keliling
+{
+    border: solid white;
+    justify-content: start;
+    box-sizing: border-box;
+    background-color: rgb(245, 242, 242);
+    width: 370px;
+    margin-left: 7.5% ;
+    font-size: 17px;
+}
+.Populer
+{
+    border: solid white;
+    justify-content: start;
+    box-sizing: border-box;
+    background-color: rgb(245, 242, 242);
+    width: 370px;
+    font-size: 17px;
+}
+.Unggulan 
+{
+    border: solid white;
+    justify-content: start;
+    box-sizing: border-box;
+    background-color: rgb(245, 242, 242);
+    width: 390px;
+    font-size: 17px;
+}
+.treter
+{
+    background-color: rgb(245, 242, 242);
+    display: flex;
+    justify-content: space-between;
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.Trending ul
+{
+   list-style-type: none;
+}
+.Terbaru
+{
+    
+    margin-right: 80px;
+}
+.Belanja
+{
+    background-color: rgb(245, 242, 242);
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.Keunggulan 
+{
+    background-color: rgb(245, 242, 242);
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.Keunggulan ul
+{
+    margin-left: 2%;
+}
+.Kembangkan
+{
+    background-color: rgb(245, 242, 242);
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.Kembangkan ul
+{
+    margin-left: 2%;   
+}
+.Terpercaya
+{
+    background-color: rgb(245, 242, 242);
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.Terpercaya ul
+{
+    display: flex ;
+    justify-content: start;
+    list-style-type: none;
+    gap: 20px;
+}
+.footer
+{
+    background-color: rgb(245, 242, 242);
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 7.5%;
+    width: 1265px;
+    font-size: 17px;
+}
+.footer1
+{
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    gap: 17px;   
+}
+.footer ul 
+{
+    list-style-type: none;
+}
+/* {
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    gap: 20px;
+    background-color: rgb(245, 242, 242);
+    font-size: 17px;
+    border: solid rgb(245, 242, 242);
+    box-sizing: border-box;
+    margin-left: 7.5%;
+    width: 1265px;
+    height: 30px;
+} */
+
+/* .Header1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:beige;
+    font-size: 20px;
+    justify-content: flex-start;
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+
+}
+.Header2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lightblue;
+    font-size: 20px;
+    justify-content: flex-start;
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+}
+.Menu
+{
+    background-color: lightgrey;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid white ;
+    width: 400px;
+    margin-left: 8.1%;
+    position: absolute;
+    box-sizing: border-box;
+}
+.Keliling
+{
+    background-color:lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white;
+    font-size: 15px;
+    width: 400px;
+    height: 300px;
+    margin-left: 36%;
+    position: absolute;
+    box-sizing: border-box;
+}
+.Populer
+{
+    font-style: italic;
+    background-color: lightgrey;
+    font-size: 15px;
+    border: solid white;
+    margin-left: 64.5%;
+    width: 392px;
+    height: 300px;
+    box-sizing: border-box;
+}
+.Unggulan
+{
+    background-color: lightgrey;
+    border: solid white;
+    font-size: 15px;
+    width: 400px;
+    height: 237.5px;
+    margin-left: 36%;
+    position: absolute;
+    box-sizing: border-box;
+}
+.Terbaru
+{
+    background-color: lightgray;
+    font-size: 15px;
+    border: solid white;
+    margin-left: 63.9%;
+    width: 392px;
+    height: 237.5px;
+    position: absolute;
+    box-sizing: border-box;
+}
+.Trending
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    border: solid white ;
+    width: 400px;
+    margin-left: 8.1%;
+    font-size: 15px;
+    background-color: lightgrey;
+    box-sizing: border-box;
+}  
+.Belanja
+{
+    border: solid white ;
+    width: 1215px;
+    margin-left: 8.1%;
+    background-color: lightgrey;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+} 
+.Keunggulan 
+{
+    font-style: italic;
+    border: solid white ;
+    width: 1115px;
+    margin-left: 15%;
+    background-color: lightgrey;
+    font-size: 18px;
+    position: relative;
+    box-sizing: border-box;
+}
+.Kembangkan
+{
+    font-style: italic;
+    border: solid white ;
+    width: 1115px;
+    margin-left: 15%;
+    background-color: lightgrey;
+    font-size: 18px;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+.Terpercaya
+{
+    border: solid white ;
+    width: 1215px;
+    margin-left: 8.1%;
+    background-color: lightgrey;
+    font-size: 18px;
+    position: relative;
+    box-sizing: border-box;
+}
+.Metode
+{
+    font-style: italic;
+    background-color: aliceblue;
+    color: blue;
+    font-size: 15px;
+    border: solid aliceblue;
+    margin-left: 80.1%;
+    width: 150px;
+    margin-top: 2%;
+    position: absolute;
+    box-sizing: border-box;
+}
+.Footer
+{
+    border: solid white ;
+    width: 1215px;
+    margin-left: 8.1%;
+    font-size: 15px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.gambar
+{
+    border: 4px solid black;
+    width: 1210px;
+    background-color: aqua;
+    margin: 0 auto;
+} */
