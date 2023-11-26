@@ -1,4 +1,4 @@
-# Nama_NPM_Prak_DW_A_Tgs10
+# DAFFA ABRAAR SAJUTI_4522210040_Prak_DW_A_Tgs10
 ## Hasil Running :
 ![image](https://github.com/DaffaSajuti/Praktikum-Desain-Web/assets/145973200/ef4af38d-61e6-42c4-8b91-2ff349b0ee33)
 ![image](https://github.com/DaffaSajuti/Praktikum-Desain-Web/assets/145973200/f7fc756b-7346-43c8-9231-89e651b2b7a7)
